@@ -24,5 +24,13 @@ This project automates the core functionalities of the Flipkart website using Se
 - pom.xml
 - testng.xml
 
+## How to Run
+
+1. Clone the repository.
+2. Import the project into Eclipse.
+3. Update Maven dependencies.
+4. Execute the `testng.xml` file.
+5. View the generated Extent Report after execution.
+
 ## Author
 R. Niketan
